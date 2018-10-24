@@ -1,0 +1,102 @@
+@font-face {
+	font-family: "cooper";
+	src: url("fonts/CooperHewitt-Heavy.woff2") format("woff2");
+}
+
+p {
+	font-family: "cooper";
+	font-size: 25px;
+	color: darkblue;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.yellow {
+	width: 500px;
+	background-color: transparent;
+	margin-top: 50px;
+	margin-left: 300px;
+}
+
+.flex {
+	display: flex;
+	width: 100%;
+	margin-top: -800px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	z-index: -1;
+}
+
+.pink {
+	width: 800px;
+	height: 13000px;
+	z-index: -1;
+}
+}
+
+.purple, {
+	width: 1000px;
+	height: 13000px;
+	z-index: -5;
+}
+
+.blue {
+	width: 800px;
+	height: 15000px;
+	z-index: -1;
+	justify-content: center;
+}
+
+.brown {
+	width: 750px;
+	background-color: transparent;
+	margin-top: -330px;
+	margin-left: 180px;
+}
+
+.pink {
+	background-color: lightpink;
+	margin-left: 160px;
+}
+
+.purple {
+	background-color: lavender;
+}
+
+.blue {
+	background-color: lightblue;
+	margin-left: 160px;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+.flex-end {
+	justify-content: flex-end;
+	z-index: -1;
+}
+
+.flex-vertical {
+	display: flex;
+	height: 850px;
+	flex-direction: column;
+	z-index: -1;
+	margin-top: -300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
